@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.pt
+*.ckpt
+*.tif
+*.npz
+report_build/
